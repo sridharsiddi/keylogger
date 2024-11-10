@@ -1,0 +1,8 @@
+Open terminal and enter pip install pynput
+After the required packages are installed run in the terminal
+python file_name.py
+************************************
+What Happens When You Run It?
+The keylogger starts in the background.
+Every time you press a key, it records the key in the keylog.txt file.
+You can open keylog.txt to see the captured keystrokes.
